@@ -1,6 +1,4 @@
-Sure! Here’s a README template for your "Recipe Recommendation System" project, based on the code and data exploration in your notebook. You can further customize it as needed:
 
----
 
 # Recipe Recommendation System
 
