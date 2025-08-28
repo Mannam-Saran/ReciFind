@@ -56,7 +56,6 @@ To run the notebook:
     ```bash
     pip install -r requirements.txt
     ```
-    *(Add a `requirements.txt` file if not present, or list your dependencies here: pandas, numpy, scikit-learn, matplotlib, etc.)*
 3. Launch Jupyter Notebook:
     ```bash
     jupyter notebook
